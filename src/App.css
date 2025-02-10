@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+body{
+    background-image: url("./assets/bg.gif");
+    @apply bg-cover bg-center;
+}
